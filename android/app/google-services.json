@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246325944962",
+    "project_id": "employee-leave-b26cc",
+    "storage_bucket": "employee-leave-b26cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246325944962:android:4b05347276e18da2f84a9b",
+        "android_client_info": {
+          "package_name": "com.techtrioz.ttz_leave_application_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246325944962-3vqabalfbisoafolrd1s8cvi4mjse4a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCaNzG76CU-npQiuqbBGiUV3Y_IYFZ_Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246325944962-3vqabalfbisoafolrd1s8cvi4mjse4a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
